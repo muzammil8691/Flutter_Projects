@@ -1,16 +1,28 @@
-# fb_new
+Simple Calculator - Flutter Project
 
-A new Flutter project.
+This project is a simple calculator application developed in Flutter, showcasing fundamental
+concepts of cross-platform mobile app development. It was created in 2023 during my final year
+in the Bachelor's in Software Engineering as an introductory project to Flutter and its widget-based architecture.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+- Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
 
-A few resources to get you started if this is your first Flutter project:
+- Interactive User Interface: Intuitive layout using Flutter widgets like Row, Column, and Container.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Responsive Design: Ensures smooth functionality across devices of varying screen sizes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- State Management: Used simple state management techniques (setState) to update the calculator's display dynamically.
+
+Tools & Technologies
+
+- Framework: Flutter
+- Programming Language: Dart
+- IDE: Visual Studio Code
+
+Learning Outcomes
+
+- Gained a solid understanding of Flutter's widget tree structure and its declarative UI approach.
+- Practiced state management using built-in methods.
+- Developed skills in creating responsive designs for mobile applications.
+- Strengthened problem-solving by implementing core calculator functionalities.
