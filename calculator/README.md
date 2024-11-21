@@ -1,5 +1,7 @@
 Simple Calculator - Flutter Project
 
+LinkedIn Post: https://www.linkedin.com/posts/m-muzammil8691_throwback-to-my-first-flutter-project-activity-7265264185440129024-RU3a?utm_source=share&utm_medium=member_desktop
+
 This project is a simple calculator application developed in Flutter, showcasing fundamental
 concepts of cross-platform mobile app development. It was created in 2023 during my final year
 in the Bachelor's in Software Engineering as an introductory project to Flutter and its widget-based architecture.
