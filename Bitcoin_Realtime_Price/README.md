@@ -1,16 +1,21 @@
-# bicoin_api
+Bitcoin Price Tracker
 
-A new Flutter project.
+LinkedIn Post: https://www.linkedin.com/posts/m-muzammil8691_flutterdevelopment-apiintegration-bitcointracker-activity-7268929098717044736-f9-q?utm_source=share&utm_medium=member_desktop
 
-## Getting Started
+Description:
 
-This project is a starting point for a Flutter application.
+The Bitcoin Price Tracker is a Flutter-based mobile application developed during my Bachelor's in 2023. This project was my introduction to working with APIs, where I successfully integrated a Bitcoin API to fetch and display real-time data. The app features:
 
-A few resources to get you started if this is your first Flutter project:
+Real-Time Bitcoin Price: Displays the current price of Bitcoin.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Price Change Percentage: Tracks percentage changes in Bitcoin prices over hourly, weekly, and daily intervals.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User-Friendly Interface: Designed to provide a seamless experience for users monitoring Bitcoin trends.
+
+Technologies Used:
+
+Flutter: Frontend framework for building the mobile app.
+
+API Integration: Learned to connect to external APIs and process JSON data.
+
+This project significantly enhanced my understanding of API integration and real-time data handling in mobile application development.
