@@ -1,6 +1,6 @@
 # Chat App
 
-LinkedIn Post: 
+LinkedIn Post: https://www.linkedin.com/posts/m-muzammil8691_chatapp-mobileappdevelopment-flutter-activity-7271160577316573184-T0SR?utm_source=share&utm_medium=member_desktop
 
 
 A simple and efficient messaging application developed as part of my final year project during my Bachelor's in Software Engineering in 2023. This app allows users to communicate in real time, with secure authentication and smooth UI.
